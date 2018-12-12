@@ -1,0 +1,335 @@
+,City,LocType,NO2,SO2,Sampling.Date,State
+25,Ahmedabad,RIRUO,21,14,05/01/2015,Gujarat
+26,Ahmedabad,RIRUO,20.5,13,08/01/2015,Gujarat
+27,Ahmedabad,RIRUO,21,13,12/01/2015,Gujarat
+28,Ahmedabad,RIRUO,21.5,14,15/01/2015,Gujarat
+29,Ahmedabad,RIRUO,22.5,14.5,19/01/2015,Gujarat
+30,Ahmedabad,RIRUO,20.5,13.5,22/01/2015,Gujarat
+31,Ahmedabad,RIRUO,20.5,13,26/01/2015,Gujarat
+32,Ahmedabad,RIRUO,21,13.5,29/01/2015,Gujarat
+33,Ahmedabad,RIRUO,22,14,02/02/2015,Gujarat
+49,Ahmedabad,RIRUO,22,14,03/02/2015,Gujarat
+34,Ahmedabad,RIRUO,20,13,05/02/2015,Gujarat
+50,Ahmedabad,RIRUO,20,13,06/02/2015,Gujarat
+35,Ahmedabad,RIRUO,20,12,09/02/2015,Gujarat
+51,Ahmedabad,RIRUO,22,15,10/02/2015,Gujarat
+36,Ahmedabad,RIRUO,22,15,12/02/2015,Gujarat
+52,Ahmedabad,RIRUO,21,14,13/02/2015,Gujarat
+37,Ahmedabad,RIRUO,22,14,16/02/2015,Gujarat
+53,Ahmedabad,RIRUO,23,15,17/02/2015,Gujarat
+38,Ahmedabad,RIRUO,20,13,19/02/2015,Gujarat
+54,Ahmedabad,RIRUO,21,13,20/02/2015,Gujarat
+39,Ahmedabad,RIRUO,19,12,23/02/2015,Gujarat
+55,Ahmedabad,RIRUO,21,14,24/02/2015,Gujarat
+40,Ahmedabad,RIRUO,22,14,26/02/2015,Gujarat
+56,Ahmedabad,RIRUO,21,14,27/02/2015,Gujarat
+41,Ahmedabad,RIRUO,20,13,02/03/2015,Gujarat
+57,Ahmedabad,RIRUO,22,15,03/03/2015,Gujarat
+42,Ahmedabad,RIRUO,21,15,05/03/2015,Gujarat
+58,Ahmedabad,RIRUO,21,13,06/03/2015,Gujarat
+43,Ahmedabad,RIRUO,20,13,09/03/2015,Gujarat
+59,Ahmedabad,RIRUO,21,15,10/03/2015,Gujarat
+44,Ahmedabad,RIRUO,21,14,12/03/2015,Gujarat
+60,Ahmedabad,RIRUO,21,16,13/03/2015,Gujarat
+45,Ahmedabad,RIRUO,20,14,16/03/2015,Gujarat
+61,Ahmedabad,RIRUO,21,14,17/03/2015,Gujarat
+46,Ahmedabad,RIRUO,20,13,19/03/2015,Gujarat
+62,Ahmedabad,RIRUO,20,13,20/03/2015,Gujarat
+47,Ahmedabad,RIRUO,19,13,23/03/2015,Gujarat
+63,Ahmedabad,RIRUO,22,15,24/03/2015,Gujarat
+48,Ahmedabad,RIRUO,21,14,26/03/2015,Gujarat
+64,Ahmedabad,RIRUO,20,14,27/03/2015,Gujarat
+65,Ahmedabad,RIRUO,24,15,11/12/2015,Gujarat
+66,Ahmedabad,RIRUO,30,10,15/12/2015,Gujarat
+67,Ahmedabad,RIRUO,25,11,18/12/2015,Gujarat
+68,Ahmedabad,RIRUO,26,11,22/12/2015,Gujarat
+69,Ahmedabad,RIRUO,22,11,25/12/2015,Gujarat
+70,Ahmedabad,RIRUO,26,8,29/12/2015,Gujarat
+0,Hyderabad,RIRUO,19.36666667,12.73333333,01/07/2000,Andhra Pradesh
+1,Hyderabad,RIRUO,26.9,12.9,01/08/2000,Andhra Pradesh
+2,Hyderabad,RIRUO,64.66666667,16.53333333,01/12/2000,Andhra Pradesh
+3,Hyderabad,RIRUO,48.93333333,15.96666667,01/02/2001,Andhra Pradesh
+4,Hyderabad,RIRUO,33.2,15.16666667,01/03/2001,Andhra Pradesh
+5,Hyderabad,RIRUO,32.16666667,13.53333333,01/04/2001,Andhra Pradesh
+6,Hyderabad,RIRUO,33.23333333,15.3,01/05/2001,Andhra Pradesh
+7,Hyderabad,RIRUO,37.5,23.1,01/07/2001,Andhra Pradesh
+8,Hyderabad,RIRUO,26.13333333,2.466666667,01/08/2001,Andhra Pradesh
+9,Hyderabad,RIRUO,47.63333333,3.166666667,01/11/2001,Andhra Pradesh
+10,Hyderabad,RIRUO,51.9,4,01/12/2001,Andhra Pradesh
+245,Kolkata,RIRUO,46,2,02/01/2015,West Bengal
+141,Kolkata,RIRUO,58,3,03/01/2015,West Bengal
+246,Kolkata,RIRUO,69,7,05/01/2015,West Bengal
+142,Kolkata,RIRUO,79,10,07/01/2015,West Bengal
+247,Kolkata,RIRUO,76,9,08/01/2015,West Bengal
+143,Kolkata,RIRUO,83,10,10/01/2015,West Bengal
+248,Kolkata,RIRUO,67,6,11/01/2015,West Bengal
+144,Kolkata,RIRUO,88,11,13/01/2015,West Bengal
+249,Kolkata,RIRUO,90,10,14/01/2015,West Bengal
+145,Kolkata,RIRUO,97,10,16/01/2015,West Bengal
+146,Kolkata,RIRUO,93.5,11.5,19/01/2015,West Bengal
+147,Kolkata,RIRUO,73,9,22/01/2015,West Bengal
+250,Kolkata,RIRUO,75,8,24/01/2015,West Bengal
+148,Kolkata,RIRUO,68,8,25/01/2015,West Bengal
+251,Kolkata,RIRUO,68,9,27/01/2015,West Bengal
+149,Kolkata,RIRUO,73,8,30/01/2015,West Bengal
+252,Kolkata,RIRUO,78,8,03/02/2015,West Bengal
+150,Kolkata,RIRUO,77,9,04/02/2015,West Bengal
+253,Kolkata,RIRUO,67,6,06/02/2015,West Bengal
+151,Kolkata,RIRUO,68,7,07/02/2015,West Bengal
+254,Kolkata,RIRUO,64,7,09/02/2015,West Bengal
+152,Kolkata,RIRUO,56,6,10/02/2015,West Bengal
+255,Kolkata,RIRUO,68,5,12/02/2015,West Bengal
+153,Kolkata,RIRUO,65,7,13/02/2015,West Bengal
+256,Kolkata,RIRUO,48,3,15/02/2015,West Bengal
+154,Kolkata,RIRUO,60,3,16/02/2015,West Bengal
+257,Kolkata,RIRUO,56,4,18/02/2015,West Bengal
+155,Kolkata,RIRUO,65,3,19/02/2015,West Bengal
+156,Kolkata,RIRUO,50,2,22/02/2015,West Bengal
+258,Kolkata,RIRUO,59,4,24/02/2015,West Bengal
+157,Kolkata,RIRUO,62,5,27/02/2015,West Bengal
+259,Kolkata,RIRUO,65,4,28/02/2015,West Bengal
+158,Kolkata,RIRUO,41,4,02/03/2015,West Bengal
+260,Kolkata,RIRUO,47,6,03/03/2015,West Bengal
+159,Kolkata,RIRUO,43,5,05/03/2015,West Bengal
+261,Kolkata,RIRUO,44,4,07/03/2015,West Bengal
+160,Kolkata,RIRUO,40,2,08/03/2015,West Bengal
+262,Kolkata,RIRUO,55,4,11/03/2015,West Bengal
+161,Kolkata,RIRUO,43,4,13/03/2015,West Bengal
+263,Kolkata,RIRUO,51,4,14/03/2015,West Bengal
+162,Kolkata,RIRUO,48.5,4,17/03/2015,West Bengal
+264,Kolkata,RIRUO,50,4,20/03/2015,West Bengal
+163,Kolkata,RIRUO,43,4,21/03/2015,West Bengal
+265,Kolkata,RIRUO,54,3,23/03/2015,West Bengal
+164,Kolkata,RIRUO,52,3,25/03/2015,West Bengal
+266,Kolkata,RIRUO,47,2,26/03/2015,West Bengal
+165,Kolkata,RIRUO,47,3,28/03/2015,West Bengal
+267,Kolkata,RIRUO,41,2,29/03/2015,West Bengal
+166,Kolkata,RIRUO,51,3,31/03/2015,West Bengal
+268,Kolkata,RIRUO,45,3,01/04/2015,West Bengal
+167,Kolkata,RIRUO,45,3,03/04/2015,West Bengal
+269,Kolkata,RIRUO,43,4,06/04/2015,West Bengal
+168,Kolkata,RIRUO,40,2,08/04/2015,West Bengal
+270,Kolkata,RIRUO,38,3,09/04/2015,West Bengal
+169,Kolkata,RIRUO,37,2,11/04/2015,West Bengal
+271,Kolkata,RIRUO,33,2,12/04/2015,West Bengal
+170,Kolkata,RIRUO,40,3,14/04/2015,West Bengal
+171,Kolkata,RIRUO,37,3.5,17/04/2015,West Bengal
+172,Kolkata,RIRUO,40,2,20/04/2015,West Bengal
+272,Kolkata,RIRUO,40,3,22/04/2015,West Bengal
+173,Kolkata,RIRUO,29,4,23/04/2015,West Bengal
+273,Kolkata,RIRUO,34,3,25/04/2015,West Bengal
+174,Kolkata,RIRUO,24,2,26/04/2015,West Bengal
+274,Kolkata,RIRUO,26,2,28/04/2015,West Bengal
+175,Kolkata,RIRUO,23,3,30/04/2015,West Bengal
+275,Kolkata,RIRUO,28,3,01/05/2015,West Bengal
+276,Kolkata,RIRUO,36,4,04/05/2015,West Bengal
+176,Kolkata,RIRUO,31,2,06/05/2015,West Bengal
+277,Kolkata,RIRUO,34,3,07/05/2015,West Bengal
+177,Kolkata,RIRUO,33,3,09/05/2015,West Bengal
+278,Kolkata,RIRUO,33,3,10/05/2015,West Bengal
+178,Kolkata,RIRUO,32,3,12/05/2015,West Bengal
+179,Kolkata,RIRUO,46.5,3,15/05/2015,West Bengal
+180,Kolkata,RIRUO,39,4,18/05/2015,West Bengal
+279,Kolkata,RIRUO,37,3,19/05/2015,West Bengal
+181,Kolkata,RIRUO,40,4,21/05/2015,West Bengal
+280,Kolkata,RIRUO,35,3,23/05/2015,West Bengal
+182,Kolkata,RIRUO,29,2,24/05/2015,West Bengal
+281,Kolkata,RIRUO,34,3,27/05/2015,West Bengal
+183,Kolkata,RIRUO,39,4,29/05/2015,West Bengal
+282,Kolkata,RIRUO,39,4,30/05/2015,West Bengal
+283,Kolkata,RIRUO,35,3,01/06/2015,West Bengal
+184,Kolkata,RIRUO,34,4,03/06/2015,West Bengal
+185,Kolkata,RIRUO,38,3,05/06/2015,West Bengal
+284,Kolkata,RIRUO,30,3,06/06/2015,West Bengal
+285,Kolkata,RIRUO,28,4,09/06/2015,West Bengal
+186,Kolkata,RIRUO,29,3,10/06/2015,West Bengal
+286,Kolkata,RIRUO,46,5,12/06/2015,West Bengal
+187,Kolkata,RIRUO,37,3,13/06/2015,West Bengal
+287,Kolkata,RIRUO,37,3,15/06/2015,West Bengal
+188,Kolkata,RIRUO,27,2,16/06/2015,West Bengal
+288,Kolkata,RIRUO,25,2,18/06/2015,West Bengal
+189,Kolkata,RIRUO,27,2,19/06/2015,West Bengal
+289,Kolkata,RIRUO,23,3,21/06/2015,West Bengal
+190,Kolkata,RIRUO,20,2,22/06/2015,West Bengal
+191,Kolkata,RIRUO,28.5,3,25/06/2015,West Bengal
+192,Kolkata,RIRUO,25,2,28/06/2015,West Bengal
+290,Kolkata,RIRUO,30,3,29/06/2015,West Bengal
+193,Kolkata,RIRUO,33,3,01/07/2015,West Bengal
+291,Kolkata,RIRUO,27,3,02/07/2015,West Bengal
+292,Kolkata,RIRUO,24,2,05/07/2015,West Bengal
+194,Kolkata,RIRUO,26,3,06/07/2015,West Bengal
+293,Kolkata,RIRUO,21,2,08/07/2015,West Bengal
+195,Kolkata,RIRUO,42,4,11/07/2015,West Bengal
+294,Kolkata,RIRUO,34,2,14/07/2015,West Bengal
+196,Kolkata,RIRUO,29,2,15/07/2015,West Bengal
+295,Kolkata,RIRUO,26,2,17/07/2015,West Bengal
+197,Kolkata,RIRUO,21,2,18/07/2015,West Bengal
+296,Kolkata,RIRUO,22,2,20/07/2015,West Bengal
+198,Kolkata,RIRUO,22,3,21/07/2015,West Bengal
+199,Kolkata,RIRUO,38,2,23/07/2015,West Bengal
+297,Kolkata,RIRUO,28,2,25/07/2015,West Bengal
+200,Kolkata,RIRUO,28,2,26/07/2015,West Bengal
+298,Kolkata,RIRUO,24,2,28/07/2015,West Bengal
+201,Kolkata,RIRUO,28,3,30/07/2015,West Bengal
+299,Kolkata,RIRUO,19,2,31/07/2015,West Bengal
+202,Kolkata,RIRUO,39.5,2,03/08/2015,West Bengal
+300,Kolkata,RIRUO,42,3,06/08/2015,West Bengal
+203,Kolkata,RIRUO,29,2,08/08/2015,West Bengal
+301,Kolkata,RIRUO,28,2,09/08/2015,West Bengal
+204,Kolkata,RIRUO,36,2,11/08/2015,West Bengal
+302,Kolkata,RIRUO,31,2,12/08/2015,West Bengal
+205,Kolkata,RIRUO,38,2,14/08/2015,West Bengal
+206,Kolkata,RIRUO,28,2,17/08/2015,West Bengal
+303,Kolkata,RIRUO,32,3,18/08/2015,West Bengal
+207,Kolkata,RIRUO,29,2,20/08/2015,West Bengal
+304,Kolkata,RIRUO,34,3,21/08/2015,West Bengal
+208,Kolkata,RIRUO,23,2,23/08/2015,West Bengal
+305,Kolkata,RIRUO,37,2,26/08/2015,West Bengal
+209,Kolkata,RIRUO,29,2,27/08/2015,West Bengal
+306,Kolkata,RIRUO,39,2,29/08/2015,West Bengal
+210,Kolkata,RIRUO,35,3,31/08/2015,West Bengal
+307,Kolkata,RIRUO,32,2,01/09/2015,West Bengal
+211,Kolkata,RIRUO,35.5,3.5,04/09/2015,West Bengal
+308,Kolkata,RIRUO,37,2,07/09/2015,West Bengal
+212,Kolkata,RIRUO,35,3,08/09/2015,West Bengal
+309,Kolkata,RIRUO,39,3,10/09/2015,West Bengal
+213,Kolkata,RIRUO,26,2,12/09/2015,West Bengal
+310,Kolkata,RIRUO,27,2,13/09/2015,West Bengal
+214,Kolkata,RIRUO,26,2,14/09/2015,West Bengal
+311,Kolkata,RIRUO,31,2,16/09/2015,West Bengal
+215,Kolkata,RIRUO,29,2,17/09/2015,West Bengal
+216,Kolkata,RIRUO,23,2,20/09/2015,West Bengal
+312,Kolkata,RIRUO,38,3,22/09/2015,West Bengal
+217,Kolkata,RIRUO,39,3,23/09/2015,West Bengal
+313,Kolkata,RIRUO,44,4,26/09/2015,West Bengal
+218,Kolkata,RIRUO,47,4,28/09/2015,West Bengal
+314,Kolkata,RIRUO,60,6,30/09/2015,West Bengal
+219,Kolkata,RIRUO,48.5,3,03/10/2015,West Bengal
+220,Kolkata,RIRUO,40.5,3.5,06/10/2015,West Bengal
+315,Kolkata,RIRUO,39,3,09/10/2015,West Bengal
+221,Kolkata,RIRUO,39,3,10/10/2015,West Bengal
+316,Kolkata,RIRUO,35,3,12/10/2015,West Bengal
+222,Kolkata,RIRUO,42,4,13/10/2015,West Bengal
+317,Kolkata,RIRUO,44,3,15/10/2015,West Bengal
+223,Kolkata,RIRUO,49,4,16/10/2015,West Bengal
+318,Kolkata,RIRUO,59,10,18/10/2015,West Bengal
+224,Kolkata,RIRUO,85,15,19/10/2015,West Bengal
+319,Kolkata,RIRUO,91,18,21/10/2015,West Bengal
+225,Kolkata,RIRUO,92,17,22/10/2015,West Bengal
+226,Kolkata,RIRUO,58,7,25/10/2015,West Bengal
+320,Kolkata,RIRUO,55,6,26/10/2015,West Bengal
+227,Kolkata,RIRUO,51,6,28/10/2015,West Bengal
+321,Kolkata,RIRUO,58,5,30/10/2015,West Bengal
+228,Kolkata,RIRUO,44,3,01/11/2015,West Bengal
+322,Kolkata,RIRUO,53,6,02/11/2015,West Bengal
+229,Kolkata,RIRUO,49,4.5,05/11/2015,West Bengal
+230,Kolkata,RIRUO,51,3,08/11/2015,West Bengal
+231,Kolkata,RIRUO,79.5,11,10/11/2015,West Bengal
+232,Kolkata,RIRUO,107,19,11/11/2015,West Bengal
+323,Kolkata,RIRUO,55,5,15/11/2015,West Bengal
+233,Kolkata,RIRUO,58,6,17/11/2015,West Bengal
+234,Kolkata,RIRUO,61,4,20/11/2015,West Bengal
+324,Kolkata,RIRUO,54,3,21/11/2015,West Bengal
+235,Kolkata,RIRUO,62,5,23/11/2015,West Bengal
+325,Kolkata,RIRUO,63,5,24/11/2015,West Bengal
+236,Kolkata,RIRUO,55,4,26/11/2015,West Bengal
+326,Kolkata,RIRUO,58,4,27/11/2015,West Bengal
+237,Kolkata,RIRUO,60,6,29/11/2015,West Bengal
+327,Kolkata,RIRUO,69,7,30/11/2015,West Bengal
+238,Kolkata,RIRUO,51.5,4,03/12/2015,West Bengal
+328,Kolkata,RIRUO,49,3,06/12/2015,West Bengal
+239,Kolkata,RIRUO,69,6,08/12/2015,West Bengal
+329,Kolkata,RIRUO,66,5,09/12/2015,West Bengal
+240,Kolkata,RIRUO,47,2,12/12/2015,West Bengal
+241,Kolkata,RIRUO,49,3,14/12/2015,West Bengal
+330,Kolkata,RIRUO,61,4,15/12/2015,West Bengal
+242,Kolkata,RIRUO,62,6.5,18/12/2015,West Bengal
+243,Kolkata,RIRUO,59,5,20/12/2015,West Bengal
+331,Kolkata,RIRUO,69,7,21/12/2015,West Bengal
+332,Kolkata,RIRUO,58,5,24/12/2015,West Bengal
+244,Kolkata,RIRUO,61,7,26/12/2015,West Bengal
+333,Kolkata,RIRUO,53,5,27/12/2015,West Bengal
+129,Lucknow,RIRUO,30.13333333,31.3,01/01/1995,Uttar Pradesh
+130,Lucknow,RIRUO,30.43333333,31.66666667,01/02/1995,Uttar Pradesh
+131,Lucknow,RIRUO,29.7,30.9,01/03/1995,Uttar Pradesh
+132,Lucknow,RIRUO,27.83333333,29.5,01/04/1995,Uttar Pradesh
+133,Lucknow,RIRUO,27.33333333,29.03333333,01/05/1995,Uttar Pradesh
+134,Lucknow,RIRUO,27.66666667,28.36666667,01/06/1995,Uttar Pradesh
+135,Lucknow,RIRUO,25.46666667,26.3,01/07/1995,Uttar Pradesh
+136,Lucknow,RIRUO,26.56666667,27.1,01/08/1995,Uttar Pradesh
+137,Lucknow,RIRUO,27.8,28.9,01/09/1995,Uttar Pradesh
+138,Lucknow,RIRUO,27.86666667,29.43333333,01/10/1995,Uttar Pradesh
+139,Lucknow,RIRUO,30.26666667,31.2,01/11/1995,Uttar Pradesh
+140,Lucknow,RIRUO,30.66666667,34.56666667,01/12/1995,Uttar Pradesh
+119,Pune,RIRUO,10.4,11,05/02/1987,Maharashtra
+120,Pune,RIRUO,7.7,8.8,06/03/1987,Maharashtra
+121,Pune,RIRUO,36.7,25.7,01/04/1993,Maharashtra
+122,Pune,RIRUO,40.5,26.7,01/05/1993,Maharashtra
+123,Pune,RIRUO,36,25.4,01/06/1993,Maharashtra
+124,Pune,RIRUO,42.6,38.4,01/08/1993,Maharashtra
+125,Pune,RIRUO,33.3,23.8,01/09/1993,Maharashtra
+126,Pune,RIRUO,34.1,21,01/10/1993,Maharashtra
+127,Pune,RIRUO,41.3,26.2,01/11/1993,Maharashtra
+128,Pune,RIRUO,49.3,34.2,01/12/1993,Maharashtra
+71,Thiruvananthapuram,RIRUO,22.66666667,10.86666667,01/01/1995,Kerala
+72,Thiruvananthapuram,RIRUO,22.5,10.83333333,01/02/1995,Kerala
+73,Thiruvananthapuram,RIRUO,21.66666667,7.566666667,01/03/1995,Kerala
+74,Thiruvananthapuram,RIRUO,23.8,16.86666667,01/04/1995,Kerala
+75,Thiruvananthapuram,RIRUO,24.4,6.333333333,01/05/1995,Kerala
+76,Thiruvananthapuram,RIRUO,18.6,11.5,01/06/1995,Kerala
+77,Thiruvananthapuram,RIRUO,23.66666667,16.96666667,01/07/1995,Kerala
+78,Thiruvananthapuram,RIRUO,23.3,17.93333333,01/08/1995,Kerala
+79,Thiruvananthapuram,RIRUO,23.13333333,18.43333333,01/09/1995,Kerala
+80,Thiruvananthapuram,RIRUO,22.43333333,17.46666667,01/10/1995,Kerala
+81,Thiruvananthapuram,RIRUO,21.9,16.23333333,01/11/1995,Kerala
+82,Thiruvananthapuram,RIRUO,22.2,19.4,01/12/1995,Kerala
+83,Thiruvananthapuram,RIRUO,23.2,14.93333333,01/01/1998,Kerala
+84,Thiruvananthapuram,RIRUO,23,15.13333333,01/02/1998,Kerala
+85,Thiruvananthapuram,RIRUO,23.8,14.63333333,01/03/1998,Kerala
+86,Thiruvananthapuram,RIRUO,23.2,14.8,01/04/1998,Kerala
+87,Thiruvananthapuram,RIRUO,21.43333333,14.9,01/05/1998,Kerala
+88,Thiruvananthapuram,RIRUO,21.53333333,13.6,01/06/1998,Kerala
+89,Thiruvananthapuram,RIRUO,22.5,13.86666667,01/07/1998,Kerala
+90,Thiruvananthapuram,RIRUO,20.23333333,13.06666667,01/08/1998,Kerala
+91,Thiruvananthapuram,RIRUO,20.43333333,10.26666667,01/09/1998,Kerala
+92,Thiruvananthapuram,RIRUO,18.9,12.13333333,01/10/1998,Kerala
+93,Thiruvananthapuram,RIRUO,17.16666667,11.06666667,01/11/1998,Kerala
+94,Thiruvananthapuram,RIRUO,16.36666667,12.13333333,01/12/1998,Kerala
+95,Thiruvananthapuram,RIRUO,24.63333333,19.03333333,01/01/2000,Kerala
+96,Thiruvananthapuram,RIRUO,23.7,15.46666667,01/02/2000,Kerala
+97,Thiruvananthapuram,RIRUO,23.23333333,15.16666667,01/03/2000,Kerala
+98,Thiruvananthapuram,RIRUO,23.4,13.36666667,01/04/2000,Kerala
+99,Thiruvananthapuram,RIRUO,23.6,14.56666667,01/05/2000,Kerala
+100,Thiruvananthapuram,RIRUO,23.9,14.8,01/06/2000,Kerala
+101,Thiruvananthapuram,RIRUO,26.16666667,13.26666667,01/07/2000,Kerala
+102,Thiruvananthapuram,RIRUO,24.63333333,12.7,01/08/2000,Kerala
+103,Thiruvananthapuram,RIRUO,23.86666667,14.13333333,01/09/2000,Kerala
+104,Thiruvananthapuram,RIRUO,25.76666667,15.3,01/10/2000,Kerala
+105,Thiruvananthapuram,RIRUO,24.13333333,13.8,01/11/2000,Kerala
+106,Thiruvananthapuram,RIRUO,21.53333333,14.83333333,01/12/2000,Kerala
+107,Thiruvananthapuram,RIRUO,13.6,11.9,01/01/2002,Kerala
+108,Thiruvananthapuram,RIRUO,13.43333333,11.66666667,01/02/2002,Kerala
+109,Thiruvananthapuram,RIRUO,13.8,12.53333333,01/03/2002,Kerala
+110,Thiruvananthapuram,RIRUO,13.36666667,12,01/04/2002,Kerala
+111,Thiruvananthapuram,RIRUO,13.43333333,11.9,01/05/2002,Kerala
+112,Thiruvananthapuram,RIRUO,12.5,12.4,01/06/2002,Kerala
+113,Thiruvananthapuram,RIRUO,14.46666667,13.26666667,01/07/2002,Kerala
+114,Thiruvananthapuram,RIRUO,13.83333333,13.33333333,01/08/2002,Kerala
+115,Thiruvananthapuram,RIRUO,12.86666667,11.3,01/09/2002,Kerala
+116,Thiruvananthapuram,RIRUO,12.6,10,01/10/2002,Kerala
+117,Thiruvananthapuram,RIRUO,14.63333333,13.3,01/11/2002,Kerala
+118,Thiruvananthapuram,RIRUO,14.76666667,13.46666667,01/12/2002,Kerala
+11,Vishakhapatnam,RIRUO,17.76666667,11.6,01/07/2000,Andhra Pradesh
+12,Vishakhapatnam,RIRUO,22.96666667,15.8,01/10/2000,Andhra Pradesh
+13,Vishakhapatnam,RIRUO,25.8,13,01/11/2000,Andhra Pradesh
+14,Vishakhapatnam,RIRUO,23.06666667,12.76666667,01/02/2001,Andhra Pradesh
+15,Vishakhapatnam,RIRUO,21.13333333,14.33333333,01/03/2001,Andhra Pradesh
+16,Vishakhapatnam,RIRUO,23.7,14.9,01/04/2001,Andhra Pradesh
+17,Vishakhapatnam,RIRUO,25.06666667,14.1,01/05/2001,Andhra Pradesh
+22,Vishakhapatnam,RIRUO,20.25,11.55,01/06/2001,Andhra Pradesh
+23,Vishakhapatnam,RIRUO,20.8,13.75,01/07/2001,Andhra Pradesh
+24,Vishakhapatnam,RIRUO,20,12.05,01/08/2001,Andhra Pradesh
+18,Vishakhapatnam,RIRUO,19.3,13.9,01/09/2001,Andhra Pradesh
+19,Vishakhapatnam,RIRUO,22.86666667,17.03333333,01/10/2001,Andhra Pradesh
+20,Vishakhapatnam,RIRUO,24,15.26666667,01/11/2001,Andhra Pradesh
+21,Vishakhapatnam,RIRUO,26.86666667,6.7,01/12/2001,Andhra Pradesh
